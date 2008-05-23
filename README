@@ -1,0 +1,20 @@
+ActsAs80sHasBeen
+================
+
+This is the ultimate plugin for everyone who's loves one or both of the following: Rick Astley, and the element of surprise.
+Simply install this plugin in vendor/plugins, and follow the example instructions.
+
+Voila! Half of your links are now rickrolls. Amuse and delight friends and enemies alike!
+
+
+Example
+=======
+	# application.rb
+	
+	class ApplicationController < ActionController::Base
+		acts_as_80s_has_been
+		...
+	end
+
+
+Copyright (c) 2008 Leigh Caplan, released under the MIT license
